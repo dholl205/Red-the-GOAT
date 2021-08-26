@@ -1,0 +1,17 @@
+html {
+  background: url("images/bg.jpg"), no-repeat, center;
+  background-color: red;
+  background-size: cover;
+}
+
+.Trainer_Red2 {
+  width: 150px;
+  border-radius: 50px;
+  float: right;
+  margin-right: 10px;
+}
+
+.words {
+  color: white;
+  background-color: black;
+}
